@@ -7,7 +7,7 @@ from pathlib import Path
 import glob
 import random
 
-dataset_path = '../input/open-images-object-detection-rvc-2020/test'
+dataset_path = 'input/open-images-object-detection-rvc-2020/test'
 
 #image_dataset = os.listdir(dataset_path)[:5]
 #print(image_dataset)
